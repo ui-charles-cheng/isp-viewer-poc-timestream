@@ -1,0 +1,7 @@
+.DS_Store
+
+# Ignore common Java files
+.idea/
+*.iml
+target/
+
